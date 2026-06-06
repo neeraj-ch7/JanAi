@@ -347,7 +347,3 @@ This project was built for the Build with AI: Agentic Premier League Hackathon. 
 ![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-FF9933?style=for-the-badge)
 
 </div>
-#   J a n A i  
- #   J a n A i  
- #   J a n A i  
- 
