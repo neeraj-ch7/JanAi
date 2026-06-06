@@ -1,4 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_URL || "https://janai-cm5e.onrender.com/api";
+const API_BASE = (import.meta.env.VITE_API_URL || "https://janai-cm5e.onrender.com") + "/api";
 
 export async function createComplaint(title, description, location, preferred_language = "en", image_data = null) {
   const response = await fetch(`${API_BASE}/complaints`, {
