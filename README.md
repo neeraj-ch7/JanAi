@@ -16,7 +16,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-4CAF50?style=for-the-badge&logo=render&logoColor=white)](https://janai-1.onrender.com/)
 
-**[🚀 Demo Walkthrough](#-demo-walkthrough) · [⚙️ Setup](#-setup--installation) · [🗺️ Roadmap](#-future-roadmap) · [👥 Team](#-team)**
+**[Live Link](https://janai-1.onrender.com/) · [⚙️ Setup](#-setup--installation) · [🗺️ Roadmap](#-future-roadmap) · [👥 Team](#-team)**
 
 </div>
 
